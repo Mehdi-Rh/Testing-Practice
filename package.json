@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-microverse",
+  "version": "1.0.0",
+  "description": "Activity link : https://github.com/microverseinc/curriculum-transversal-skills/blob/main/testing/testing_practice.md",
+  "main": "task_1.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehdi-Rh/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehdi-Rh/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/Mehdi-Rh/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
