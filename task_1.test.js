@@ -7,7 +7,7 @@ test('Test if the string length is correct', () => {
   const string_3 = ""
 
   // Act
-  const length_1 = string_1.length
+  const length_1 = 3
   const length_2 = "The string length is out range"
   const length_3 = "The string length is out range"
   // Assert

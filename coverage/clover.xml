@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1646785822720" clover="3.2.0">
-  <project timestamp="1646785822721" name="All files">
-    <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6" elements="24" coveredelements="24" complexity="0" loc="14" ncloc="14" packages="1" files="3" classes="3"/>
+<coverage generated="1646813386891" clover="3.2.0">
+  <project timestamp="1646813386891" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7" elements="32" coveredelements="32" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
     <file name="task_1.js" path="/media/mehdi/DATA/Module_2/Courses/Tests/Testing-Practice-Microverse/task_1.js">
       <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
@@ -24,6 +24,14 @@
       <line num="8" count="1" type="stmt"/>
       <line num="13" count="1" type="stmt"/>
       <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="task_4.js" path="/media/mehdi/DATA/Module_2/Courses/Tests/Testing-Practice-Microverse/task_4.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
